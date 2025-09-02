@@ -9,7 +9,7 @@ Clique no Menu Iniciar → digite PowerShell → abra.
 
 Exemplo: usar a pasta Documentos:
 
-cd $HOME\Documents
+cd $HOME\Documents 
 
 3️⃣ Criar o arquivo com o conteúdo do relatório
 
