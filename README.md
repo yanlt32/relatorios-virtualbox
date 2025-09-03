@@ -22,7 +22,7 @@ DENTRO DESSE CODIGO COLOQUE SEU RELATÓRIO REFERENTE A MÁQUINA VIRTUAL QUE VOCE
 
 
 
-"@ > relatorio-winxp.md
+"@ > relatorio-LinuxUbuntu.md
 
 
 Esse comando cria o arquivo relatorio-winxp.md com todo o conteúdo do seu relatório.
